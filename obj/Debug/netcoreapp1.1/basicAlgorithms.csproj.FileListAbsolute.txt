@@ -1,0 +1,9 @@
+/Users/Renil/codingStuff/csharp/basicAlgorithms/bin/Debug/netcoreapp1.1/basicAlgorithms.deps.json
+/Users/Renil/codingStuff/csharp/basicAlgorithms/bin/Debug/netcoreapp1.1/basicAlgorithms.runtimeconfig.json
+/Users/Renil/codingStuff/csharp/basicAlgorithms/bin/Debug/netcoreapp1.1/basicAlgorithms.runtimeconfig.dev.json
+/Users/Renil/codingStuff/csharp/basicAlgorithms/obj/Debug/netcoreapp1.1/basicAlgorithms.csproj.CoreCompileInputs.cache
+/Users/Renil/codingStuff/csharp/basicAlgorithms/obj/Debug/netcoreapp1.1/basicAlgorithms.AssemblyInfo.cs
+/Users/Renil/codingStuff/csharp/basicAlgorithms/bin/Debug/netcoreapp1.1/basicAlgorithms.dll
+/Users/Renil/codingStuff/csharp/basicAlgorithms/bin/Debug/netcoreapp1.1/basicAlgorithms.pdb
+/Users/Renil/codingStuff/csharp/basicAlgorithms/obj/Debug/netcoreapp1.1/basicAlgorithms.dll
+/Users/Renil/codingStuff/csharp/basicAlgorithms/obj/Debug/netcoreapp1.1/basicAlgorithms.pdb
